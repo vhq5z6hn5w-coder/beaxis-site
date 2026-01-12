@@ -1,12 +1,34 @@
-Beaxis
+# Beaxis Archive
 
-This repository hosts the public artifact at https://beaxis.net
+This repository is a public, time-indexed archive of structural observations.
 
-It describes a bounded, one-time structural review
-focused on human decision continuity in automated systems.
+It documents situations where:
+- systems continue operating,
+- decisions close,
+- and no explicitly accountable human decision-holder is present.
 
 This is not a framework.
-This is not a product.
-This is not maintained for contribution.
+This is not consulting.
+This is not governance.
+This is not optimization.
 
-If the text resonates, the site explains how to reach us.
+No recommendations are provided.
+No solutions are suggested.
+No actions are prescribed.
+
+Each entry is published as observed.
+Any interpretation, inference, or conclusion belongs solely to the reader.
+
+The archive is intentionally:
+- non-interactive
+- non-optimized
+- non-promotional
+- low-visibility
+
+Its purpose is preservation, not influence.
+
+Entries are organized by time, not by topic.
+This is deliberate.
+
+Beaxis does not claim authority.
+It records continuity.
