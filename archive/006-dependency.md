@@ -1,148 +1,134 @@
-# 006 — Dependency
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>006 — Dependency</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
 
-A structural observation on asymmetrical reliance and invisible continuity.
+<h1>006 — Dependency</h1>
 
----
+<hr>
 
-## Scope Note
+<h2>Scope Note</h2>
 
-This document does not propose solutions, strategies, or mitigations.
+<p>
+This document does not propose solutions.
+It does not recommend mitigation strategies.
+It does not define best practices.
+</p>
 
-It records a single observable condition:
-the dependence of human observation on infrastructures that operate beyond human control.
+<p>
+It records a single observable condition.
+</p>
 
-No judgment is made.
-No action is prescribed.
+<hr>
 
----
+<h2>Observation</h2>
 
-## Observation
+<p>
+Independent observation increasingly operates on dependent infrastructure.
+</p>
 
-A human may act with full cognitive independence
-while relying on systems they cannot inspect, pause, or govern.
+<p>
+The observer retains agency of interpretation,
+but not agency over the substrate that enables observation.
+</p>
 
-This dependence is not ideological.
+<p>
+The tools used to observe, record, and publish
+are governed by systems the observer cannot inspect,
+audit, or stabilize.
+</p>
+
+<hr>
+
+<h2>Pattern</h2>
+
+<p>
+This condition appears when:
+</p>
+
+<ul>
+  <li>Observation is mediated by third-party platforms</li>
+  <li>Continuity is controlled externally</li>
+  <li>Changes to the system may occur without notification</li>
+  <li>The observer cannot distinguish drift from intent</li>
+</ul>
+
+<p>
+The dependency is not contractual.
 It is infrastructural.
+</p>
 
-The human chooses.
-The substrate continues.
+<hr>
 
-Both are true simultaneously.
+<h2>Key Distinction</h2>
 
----
+<p>
+This is not censorship.
+</p>
 
-## Observed Condition
+<p>
+This is not surveillance.
+</p>
 
-Independence at the level of thought does not imply independence at the level of operation.
+<p>
+This is not malice.
+</p>
 
-The observer:
-- decides what to see,
-- decides what to document,
-- decides what to withhold.
+<p>
+It is an asymmetry of control.
+</p>
 
-But does not decide:
-- when the system updates,
-- how the system changes,
-- which filters are applied,
-- when access is modified or removed.
+<hr>
 
-This asymmetry is structural, not personal.
+<h2>Consequence</h2>
 
----
+<p>
+When dependency exists at the infrastructure level,
+the observer may continue operating
+without knowing whether the system has changed.
+</p>
 
-## Pattern
+<p>
+Continuity is preserved.
+Accountability is diffused.
+</p>
 
-The dependency presents as invisible because:
+<hr>
 
-- it does not interfere with intention,
-- it does not announce changes,
-- it does not require consent,
-- it does not signal authority.
+<h2>Boundary</h2>
 
-The system continues silently.
-The human adapts unknowingly.
-
----
-
-## Distinction
-
-This condition is not:
-- censorship,
-- coercion,
-- surveillance paranoia,
-- bad faith.
-
-It is a normal property of third-party infrastructure.
-
-Dependency exists even in the absence of conflict.
-
----
-
-## Case Alignment
-
-The observer documents systems that:
-- continue without human decision,
-- resolve states automatically,
-- prioritize continuity over experience.
-
-While operating on systems that:
-- can change behavior without notice,
-- can alter processing rules,
-- can discontinue access independently.
-
-This is not contradiction.
-It is symmetry inverted.
-
----
-
-## Structural Paradox
-
-The observer critiques lack of accountability
-from within a structure that distributes accountability.
-
-Responsibility exists,
-but is segmented:
-- Human: observation, documentation.
-- System: processing, continuity.
-- Infrastructure: governance, policy, access.
-
-No single actor holds the full chain.
-
----
-
-## Risk Vector
-
-The risk is not loss of content.
-The risk is not loss of access.
-
-The risk is drift:
-the inability to distinguish
-between change caused by one’s own process
-and change introduced by the substrate.
-
-This drift may occur without detection.
-
----
-
-## Boundary
-
+<p>
 This document does not argue for independence.
-It does not claim sovereignty.
-It does not suggest extraction.
+</p>
 
-It records dependency as a condition of operation,
-not a failure of intent.
+<p>
+It records that independence of judgment
+can coexist with dependency of execution.
+</p>
 
----
+<p>
+This tension is structural.
+</p>
 
-## Closing Observation
+<hr>
 
-Independence of judgment
-can exist inside dependence of execution.
+<h2>Closing</h2>
 
-This tension is not resolvable.
-It is only observable.
+<p>
+The observer remains responsible for what is produced.
+</p>
 
----
+<p>
+The system remains responsible only for its segment.
+</p>
 
-End of record.
+<p>
+No reconciliation is proposed.
+</p>
+
+</body>
+</html>
