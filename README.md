@@ -1,4 +1,4 @@
-# Beaxis — Public Archive
+Beaxis™ — Public Archive
 
 Beaxis is a public documentation archive focused on one narrow structural question:
 
