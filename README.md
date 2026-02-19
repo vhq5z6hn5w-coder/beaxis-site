@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="logo.svg" alt="Beaxis logo" width="80">
-</p>
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="archive/logo.jpeg.JPG" alt="Beaxis logo" style="height:80px;">
+</div>
 
 # Beaxis™ — Public Archive
 
