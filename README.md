@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="Beaxis logo" width="80">
+</p>
+
 Beaxis™ — Public Archive
 
 Beaxis is a public documentation archive focused on one narrow structural question:
